@@ -1,0 +1,22 @@
+﻿  model.c
+  BouncingBall.vcxproj -> D:\Google Drive\Studium\_HSKA-M_Sc\MasterThesis\Test-FMUs-master\debug\temp\BouncingBall\binaries\win64\BouncingBall.dll
+  modelDescription.xml
+  binaries
+  binaries/win64
+  binaries/win64/BouncingBall.dll
+  binaries/win64/BouncingBall.exp
+  binaries/win64/BouncingBall.ilk
+  binaries/win64/BouncingBall.lib
+  binaries/win64/BouncingBall.pdb
+  documentation
+  documentation/BouncingBall_ref.svg
+  documentation/index.html
+  documentation/LICENSE.txt
+  sources
+  sources/all.c
+  sources/config.h
+  sources/fmi2Functions.c
+  sources/model.c
+  sources/model.h
+  sources/slave.c
+  sources/slave.h

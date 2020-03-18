@@ -1,0 +1,10 @@
+^D:\GOOGLE DRIVE\STUDIUM\_HSKA-M_SC\MASTERTHESIS\TEST-FMUS-MASTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Google Drive/Studium/_HSKA-M_Sc/MasterThesis/Test-FMUs-master" "-BD:/Google Drive/Studium/_HSKA-M_Sc/MasterThesis/Test-FMUs-master/debug" --check-stamp-file "D:/Google Drive/Studium/_HSKA-M_Sc/MasterThesis/Test-FMUs-master/debug/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

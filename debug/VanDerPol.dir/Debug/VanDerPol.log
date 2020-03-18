@@ -1,0 +1,27 @@
+﻿  Building Custom Rule D:/Google Drive/Studium/_HSKA-M_Sc/MasterThesis/Test-FMUs-master/CMakeLists.txt
+  model.c
+  fmi2Functions.c
+  slave.c
+  Code wird generiert...
+     Bibliothek "D:/Google Drive/Studium/_HSKA-M_Sc/MasterThesis/Test-FMUs-master/debug/temp/VanDerPol/binaries/win64/VanDerPol.lib" und Objekt "D:/Google Drive/Studium/_HSKA-M_Sc/MasterThesis/Test-FMUs-master/debug/temp/VanDerPol/binaries/win64/VanDerPol.exp" werden erstellt.
+  VanDerPol.vcxproj -> D:\Google Drive\Studium\_HSKA-M_Sc\MasterThesis\Test-FMUs-master\debug\temp\VanDerPol\binaries\win64\VanDerPol.dll
+  modelDescription.xml
+  binaries
+  binaries/win64
+  binaries/win64/VanDerPol.dll
+  binaries/win64/VanDerPol.exp
+  binaries/win64/VanDerPol.ilk
+  binaries/win64/VanDerPol.lib
+  binaries/win64/VanDerPol.pdb
+  documentation
+  documentation/index.html
+  documentation/LICENSE.txt
+  documentation/VanDerPol_ref.svg
+  sources
+  sources/all.c
+  sources/config.h
+  sources/fmi2Functions.c
+  sources/model.c
+  sources/model.h
+  sources/slave.c
+  sources/slave.h

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Google Drive\Studium\_HSKA-M_Sc\MasterThesis\Test-FMUs-master\debug\CMakeFiles\1514c8bc019176e9e897230ebd53f24c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CD218866-B10D-3A78-893F-8B4CE4639931}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,29 @@
+﻿  Building Custom Rule D:/Google Drive/Studium/_HSKA-M_Sc/MasterThesis/Test-FMUs-master/CMakeLists.txt
+  model.c
+  fmi2Functions.c
+  slave.c
+  Code wird generiert...
+     Bibliothek "D:/Google Drive/Studium/_HSKA-M_Sc/MasterThesis/Test-FMUs-master/debug/temp/Resource/binaries/win64/Resource.lib" und Objekt "D:/Google Drive/Studium/_HSKA-M_Sc/MasterThesis/Test-FMUs-master/debug/temp/Resource/binaries/win64/Resource.exp" werden erstellt.
+  Resource.vcxproj -> D:\Google Drive\Studium\_HSKA-M_Sc\MasterThesis\Test-FMUs-master\debug\temp\Resource\binaries\win64\Resource.dll
+  modelDescription.xml
+  binaries
+  binaries/win64
+  binaries/win64/Resource.dll
+  binaries/win64/Resource.exp
+  binaries/win64/Resource.ilk
+  binaries/win64/Resource.lib
+  binaries/win64/Resource.pdb
+  documentation
+  documentation/index.html
+  documentation/LICENSE.txt
+  documentation/Resource_ref.svg
+  sources
+  sources/all.c
+  sources/config.h
+  sources/fmi2Functions.c
+  sources/model.c
+  sources/model.h
+  sources/slave.c
+  sources/slave.h
+  resources
+  resources/y.txt

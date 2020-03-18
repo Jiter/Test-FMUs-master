@@ -1,0 +1,27 @@
+﻿  Building Custom Rule D:/Google Drive/Studium/_HSKA-M_Sc/MasterThesis/Test-FMUs-master/CMakeLists.txt
+  model.c
+  fmi2Functions.c
+  slave.c
+  Code wird generiert...
+     Bibliothek "D:/Google Drive/Studium/_HSKA-M_Sc/MasterThesis/Test-FMUs-master/debug/temp/Feedthrough/binaries/win64/Feedthrough.lib" und Objekt "D:/Google Drive/Studium/_HSKA-M_Sc/MasterThesis/Test-FMUs-master/debug/temp/Feedthrough/binaries/win64/Feedthrough.exp" werden erstellt.
+  Feedthrough.vcxproj -> D:\Google Drive\Studium\_HSKA-M_Sc\MasterThesis\Test-FMUs-master\debug\temp\Feedthrough\binaries\win64\Feedthrough.dll
+  modelDescription.xml
+  binaries
+  binaries/win64
+  binaries/win64/Feedthrough.dll
+  binaries/win64/Feedthrough.exp
+  binaries/win64/Feedthrough.ilk
+  binaries/win64/Feedthrough.lib
+  binaries/win64/Feedthrough.pdb
+  documentation
+  documentation/Feedthrough_ref.svg
+  documentation/index.html
+  documentation/LICENSE.txt
+  sources
+  sources/all.c
+  sources/config.h
+  sources/fmi2Functions.c
+  sources/model.c
+  sources/model.h
+  sources/slave.c
+  sources/slave.h

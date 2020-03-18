@@ -1,0 +1,27 @@
+﻿  Building Custom Rule D:/Google Drive/Studium/_HSKA-M_Sc/MasterThesis/Test-FMUs-master/CMakeLists.txt
+  model.c
+  fmi2Functions.c
+  slave.c
+  Code wird generiert...
+     Bibliothek "D:/Google Drive/Studium/_HSKA-M_Sc/MasterThesis/Test-FMUs-master/debug/temp/Stair/binaries/win64/Stair.lib" und Objekt "D:/Google Drive/Studium/_HSKA-M_Sc/MasterThesis/Test-FMUs-master/debug/temp/Stair/binaries/win64/Stair.exp" werden erstellt.
+  Stair.vcxproj -> D:\Google Drive\Studium\_HSKA-M_Sc\MasterThesis\Test-FMUs-master\debug\temp\Stair\binaries\win64\Stair.dll
+  modelDescription.xml
+  binaries
+  binaries/win64
+  binaries/win64/Stair.dll
+  binaries/win64/Stair.exp
+  binaries/win64/Stair.ilk
+  binaries/win64/Stair.lib
+  binaries/win64/Stair.pdb
+  documentation
+  documentation/index.html
+  documentation/LICENSE.txt
+  documentation/Stair_ref.svg
+  sources
+  sources/all.c
+  sources/config.h
+  sources/fmi2Functions.c
+  sources/model.c
+  sources/model.h
+  sources/slave.c
+  sources/slave.h
